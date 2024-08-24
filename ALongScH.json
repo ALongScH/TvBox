@@ -101,20 +101,6 @@
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         },
-        {
-            "name": "IPTV4",
-            "type": 0,
-            "url": "https://wzsvip.github.io/ipv4.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPTV6",
-            "type": 0,
-            "url": "https://wzsvip.github.io/ipv6.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        }
     ],
     "sites": [
         {
