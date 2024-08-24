@@ -8,7 +8,7 @@
             "name": "今允直播1",
             "type": 0,
             "playerType": 1,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb0.txt",
+            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -16,20 +16,20 @@
             "name": "今允直播2",
             "type": 0,
             "playerType": 1,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb1.txt",
+            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb1",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "今允直播3",
             "type": 0,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb2.txt",
+            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb2",
             "playerType": 1
         },
         {
             "name": "live",
             "type": 0,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/live.txt",
+            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/live",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -37,7 +37,7 @@
         {
             "name": "TV",
             "type": 0,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/tv.txt",
+            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/tv",
             "playerType": 1
         },
         {
