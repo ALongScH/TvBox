@@ -1,4 +1,4 @@
-{
+{"spider": "./BHapp.jar",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://img.fy6b.com/2024/07/15/161bacbec4079.png",
 "warningText": "声明：资源来自网络，无盈利，所有内容仅供学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除]",
@@ -18,7 +18,7 @@
     }],
 
 "sites":[
-{"key": "豆瓣推荐","name": "今允影视","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣推荐","name": "福莉接口｜关注公众号：宝盒APP","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "苹果影视","name": "⭐┃苹果影视┃秒播","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
 
@@ -43,7 +43,7 @@
 {"key": "厂长弹幕版","name": "⭐┃厂长蓝光┃弹幕","type": 3,"api": "csp_Czzy","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 25},
 
-{"key": "hipy_js_采集之王[合]","name": "⭐┃今允采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+{"key": "hipy_js_采集之王[合]","name": "⭐┃宝盒采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
   
 {"key":"荐片","name":"⭐┃荐片影视┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
