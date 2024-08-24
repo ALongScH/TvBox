@@ -149,7 +149,7 @@
                 "播放标题": ">&&<",
                 "播放链接": "href=\"&&\"",
                 "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "影片地区": "圥忈制作",
+                "影片地区": "",
                 "影片年代": "class=\"detail-tags-item\">&&</a>",
                 "影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
                 "影片状态": "备注:&&</div>",
@@ -159,8 +159,8 @@
             }
         },
         {
-            "key": "圥忈副页",
-            "name": "🌼圥忈副页┃备用",
+            "key": "今允主页",
+            "name": "🌼今允主页┃备用",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3949,7 +3949,7 @@
         },
         {
             "key": "ext_live_protocol",
-            "name": "导航 http://ttrj.ysepan.com/",
+            "name": "导航",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -5226,7 +5226,7 @@
         "vip.ffzyad.com",
         "mozai.4gtv.tv",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
-        
+
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
         "www.google-analytics.com",
