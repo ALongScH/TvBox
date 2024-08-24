@@ -2401,7 +2401,7 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-🌃韩国歌舞👉福莉,#genre#
+🌃韩国歌舞,#genre#
 韩004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
 韩006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
@@ -2449,16 +2449,16 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 ★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
 
 
-🍁🔞测试频道_8688,#genre#
+🍁测试频道,#genre#
 
-⑥玩偶软件线路0,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-⑥玩偶软件线路1,rtmp://twcdn.top/sat/hk031
-⑥玩偶软件线路3,http://grandprix2023.asuscomm.com:8892/bysid/82
-⑥玩偶转播线路4,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-⑥玩偶转播线路5,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-⑥香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
-⑥香港21:30一七,https://ccc.jihbcr.com/live/629.m3u8
-⑥香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
+软件线路0,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+软件线路1,rtmp://twcdn.top/sat/hk031
+软件线路3,http://grandprix2023.asuscomm.com:8892/bysid/82
+转播线路4,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+转播线路5,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
+香港21:30一七,https://ccc.jihbcr.com/live/629.m3u8
+香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
