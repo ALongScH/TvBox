@@ -8,20 +8,12 @@
             "name": "今允直播1",
             "type": 0,
             "playerType": 1,
-            "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb0",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "今允直播2",
-            "type": 0,
-            "playerType": 1,
             "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb1",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "今允直播3",
+            "name": "今允直播2",
             "type": 0,
             "url": "https://gitee.com/ALongScH/TVBox/raw/Gitee-TVBox/zb2",
             "playerType": 1
